@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/webrave-staging/static/css/main.ce68610e.chunk.css",
+    "main.js": "/webrave-staging/static/js/main.84d8cf02.chunk.js",
+    "main.js.map": "/webrave-staging/static/js/main.84d8cf02.chunk.js.map",
+    "runtime-main.js": "/webrave-staging/static/js/runtime-main.ad7ab754.js",
+    "runtime-main.js.map": "/webrave-staging/static/js/runtime-main.ad7ab754.js.map",
+    "static/css/2.480c6795.chunk.css": "/webrave-staging/static/css/2.480c6795.chunk.css",
+    "static/js/2.f6e504c9.chunk.js": "/webrave-staging/static/js/2.f6e504c9.chunk.js",
+    "static/js/2.f6e504c9.chunk.js.map": "/webrave-staging/static/js/2.f6e504c9.chunk.js.map",
+    "static/js/3.8b8b4e56.chunk.js": "/webrave-staging/static/js/3.8b8b4e56.chunk.js",
+    "static/js/3.8b8b4e56.chunk.js.map": "/webrave-staging/static/js/3.8b8b4e56.chunk.js.map",
+    "index.html": "/webrave-staging/index.html",
+    "static/css/2.480c6795.chunk.css.map": "/webrave-staging/static/css/2.480c6795.chunk.css.map",
+    "static/css/main.ce68610e.chunk.css.map": "/webrave-staging/static/css/main.ce68610e.chunk.css.map",
+    "static/js/2.f6e504c9.chunk.js.LICENSE.txt": "/webrave-staging/static/js/2.f6e504c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad7ab754.js",
+    "static/css/2.480c6795.chunk.css",
+    "static/js/2.f6e504c9.chunk.js",
+    "static/css/main.ce68610e.chunk.css",
+    "static/js/main.84d8cf02.chunk.js"
+  ]
+}
