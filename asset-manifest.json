@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/namc-instar-staging/static/css/main.6c659636.chunk.css",
-    "main.js": "/namc-instar-staging/static/js/main.32f8d860.chunk.js",
-    "main.js.map": "/namc-instar-staging/static/js/main.32f8d860.chunk.js.map",
-    "runtime-main.js": "/namc-instar-staging/static/js/runtime-main.d607c670.js",
-    "runtime-main.js.map": "/namc-instar-staging/static/js/runtime-main.d607c670.js.map",
+    "main.js": "/namc-instar-staging/static/js/main.55c62c3b.chunk.js",
+    "main.js.map": "/namc-instar-staging/static/js/main.55c62c3b.chunk.js.map",
+    "runtime-main.js": "/namc-instar-staging/static/js/runtime-main.406e80e6.js",
+    "runtime-main.js.map": "/namc-instar-staging/static/js/runtime-main.406e80e6.js.map",
     "static/css/2.bf217884.chunk.css": "/namc-instar-staging/static/css/2.bf217884.chunk.css",
-    "static/js/2.d69710ae.chunk.js": "/namc-instar-staging/static/js/2.d69710ae.chunk.js",
-    "static/js/2.d69710ae.chunk.js.map": "/namc-instar-staging/static/js/2.d69710ae.chunk.js.map",
-    "static/js/3.7976173e.chunk.js": "/namc-instar-staging/static/js/3.7976173e.chunk.js",
-    "static/js/3.7976173e.chunk.js.map": "/namc-instar-staging/static/js/3.7976173e.chunk.js.map",
+    "static/js/2.9b98597c.chunk.js": "/namc-instar-staging/static/js/2.9b98597c.chunk.js",
+    "static/js/2.9b98597c.chunk.js.map": "/namc-instar-staging/static/js/2.9b98597c.chunk.js.map",
+    "static/js/3.adc78efe.chunk.js": "/namc-instar-staging/static/js/3.adc78efe.chunk.js",
+    "static/js/3.adc78efe.chunk.js.map": "/namc-instar-staging/static/js/3.adc78efe.chunk.js.map",
     "index.html": "/namc-instar-staging/index.html",
     "static/css/2.bf217884.chunk.css.map": "/namc-instar-staging/static/css/2.bf217884.chunk.css.map",
     "static/css/main.6c659636.chunk.css.map": "/namc-instar-staging/static/css/main.6c659636.chunk.css.map",
-    "static/js/2.d69710ae.chunk.js.LICENSE.txt": "/namc-instar-staging/static/js/2.d69710ae.chunk.js.LICENSE.txt"
+    "static/js/2.9b98597c.chunk.js.LICENSE.txt": "/namc-instar-staging/static/js/2.9b98597c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d607c670.js",
+    "static/js/runtime-main.406e80e6.js",
     "static/css/2.bf217884.chunk.css",
-    "static/js/2.d69710ae.chunk.js",
+    "static/js/2.9b98597c.chunk.js",
     "static/css/main.6c659636.chunk.css",
-    "static/js/main.32f8d860.chunk.js"
+    "static/js/main.55c62c3b.chunk.js"
   ]
 }
