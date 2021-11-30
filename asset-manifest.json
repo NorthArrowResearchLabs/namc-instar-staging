@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/webrave-staging/static/css/main.7b90cde6.chunk.css",
-    "main.js": "/webrave-staging/static/js/main.ee8e5c3a.chunk.js",
-    "main.js.map": "/webrave-staging/static/js/main.ee8e5c3a.chunk.js.map",
-    "runtime-main.js": "/webrave-staging/static/js/runtime-main.c96a501b.js",
-    "runtime-main.js.map": "/webrave-staging/static/js/runtime-main.c96a501b.js.map",
-    "static/css/2.bf217884.chunk.css": "/webrave-staging/static/css/2.bf217884.chunk.css",
-    "static/js/2.776cd714.chunk.js": "/webrave-staging/static/js/2.776cd714.chunk.js",
-    "static/js/2.776cd714.chunk.js.map": "/webrave-staging/static/js/2.776cd714.chunk.js.map",
-    "static/js/3.5dcfe2ef.chunk.js": "/webrave-staging/static/js/3.5dcfe2ef.chunk.js",
-    "static/js/3.5dcfe2ef.chunk.js.map": "/webrave-staging/static/js/3.5dcfe2ef.chunk.js.map",
-    "index.html": "/webrave-staging/index.html",
-    "static/css/2.bf217884.chunk.css.map": "/webrave-staging/static/css/2.bf217884.chunk.css.map",
-    "static/css/main.7b90cde6.chunk.css.map": "/webrave-staging/static/css/main.7b90cde6.chunk.css.map",
-    "static/js/2.776cd714.chunk.js.LICENSE.txt": "/webrave-staging/static/js/2.776cd714.chunk.js.LICENSE.txt"
+    "main.css": "/namc-instar-staging/static/css/main.7b90cde6.chunk.css",
+    "main.js": "/namc-instar-staging/static/js/main.050e9379.chunk.js",
+    "main.js.map": "/namc-instar-staging/static/js/main.050e9379.chunk.js.map",
+    "runtime-main.js": "/namc-instar-staging/static/js/runtime-main.ef310077.js",
+    "runtime-main.js.map": "/namc-instar-staging/static/js/runtime-main.ef310077.js.map",
+    "static/css/2.bf217884.chunk.css": "/namc-instar-staging/static/css/2.bf217884.chunk.css",
+    "static/js/2.1471705b.chunk.js": "/namc-instar-staging/static/js/2.1471705b.chunk.js",
+    "static/js/2.1471705b.chunk.js.map": "/namc-instar-staging/static/js/2.1471705b.chunk.js.map",
+    "static/js/3.5dcfe2ef.chunk.js": "/namc-instar-staging/static/js/3.5dcfe2ef.chunk.js",
+    "static/js/3.5dcfe2ef.chunk.js.map": "/namc-instar-staging/static/js/3.5dcfe2ef.chunk.js.map",
+    "index.html": "/namc-instar-staging/index.html",
+    "static/css/2.bf217884.chunk.css.map": "/namc-instar-staging/static/css/2.bf217884.chunk.css.map",
+    "static/css/main.7b90cde6.chunk.css.map": "/namc-instar-staging/static/css/main.7b90cde6.chunk.css.map",
+    "static/js/2.1471705b.chunk.js.LICENSE.txt": "/namc-instar-staging/static/js/2.1471705b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c96a501b.js",
+    "static/js/runtime-main.ef310077.js",
     "static/css/2.bf217884.chunk.css",
-    "static/js/2.776cd714.chunk.js",
+    "static/js/2.1471705b.chunk.js",
     "static/css/main.7b90cde6.chunk.css",
-    "static/js/main.ee8e5c3a.chunk.js"
+    "static/js/main.050e9379.chunk.js"
   ]
 }
