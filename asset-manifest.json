@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/namc-instar-staging/static/css/main.7b90cde6.chunk.css",
-    "main.js": "/namc-instar-staging/static/js/main.45d3095d.chunk.js",
-    "main.js.map": "/namc-instar-staging/static/js/main.45d3095d.chunk.js.map",
+    "main.js": "/namc-instar-staging/static/js/main.07dddc55.chunk.js",
+    "main.js.map": "/namc-instar-staging/static/js/main.07dddc55.chunk.js.map",
     "runtime-main.js": "/namc-instar-staging/static/js/runtime-main.80b8040a.js",
     "runtime-main.js.map": "/namc-instar-staging/static/js/runtime-main.80b8040a.js.map",
     "static/css/2.dca81ca5.chunk.css": "/namc-instar-staging/static/css/2.dca81ca5.chunk.css",
-    "static/js/2.f2477b35.chunk.js": "/namc-instar-staging/static/js/2.f2477b35.chunk.js",
-    "static/js/2.f2477b35.chunk.js.map": "/namc-instar-staging/static/js/2.f2477b35.chunk.js.map",
+    "static/js/2.dd6d1445.chunk.js": "/namc-instar-staging/static/js/2.dd6d1445.chunk.js",
+    "static/js/2.dd6d1445.chunk.js.map": "/namc-instar-staging/static/js/2.dd6d1445.chunk.js.map",
     "static/js/3.55722b8a.chunk.js": "/namc-instar-staging/static/js/3.55722b8a.chunk.js",
     "static/js/3.55722b8a.chunk.js.map": "/namc-instar-staging/static/js/3.55722b8a.chunk.js.map",
     "index.html": "/namc-instar-staging/index.html",
     "static/css/2.dca81ca5.chunk.css.map": "/namc-instar-staging/static/css/2.dca81ca5.chunk.css.map",
     "static/css/main.7b90cde6.chunk.css.map": "/namc-instar-staging/static/css/main.7b90cde6.chunk.css.map",
-    "static/js/2.f2477b35.chunk.js.LICENSE.txt": "/namc-instar-staging/static/js/2.f2477b35.chunk.js.LICENSE.txt"
+    "static/js/2.dd6d1445.chunk.js.LICENSE.txt": "/namc-instar-staging/static/js/2.dd6d1445.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.80b8040a.js",
     "static/css/2.dca81ca5.chunk.css",
-    "static/js/2.f2477b35.chunk.js",
+    "static/js/2.dd6d1445.chunk.js",
     "static/css/main.7b90cde6.chunk.css",
-    "static/js/main.45d3095d.chunk.js"
+    "static/js/main.07dddc55.chunk.js"
   ]
 }
