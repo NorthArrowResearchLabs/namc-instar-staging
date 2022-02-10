@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/namc-instar-staging/static/css/main.7b90cde6.chunk.css",
-    "main.js": "/namc-instar-staging/static/js/main.38145fcf.chunk.js",
-    "main.js.map": "/namc-instar-staging/static/js/main.38145fcf.chunk.js.map",
+    "main.js": "/namc-instar-staging/static/js/main.e8c7a9d1.chunk.js",
+    "main.js.map": "/namc-instar-staging/static/js/main.e8c7a9d1.chunk.js.map",
     "runtime-main.js": "/namc-instar-staging/static/js/runtime-main.9fc6804a.js",
     "runtime-main.js.map": "/namc-instar-staging/static/js/runtime-main.9fc6804a.js.map",
     "static/css/2.11166217.chunk.css": "/namc-instar-staging/static/css/2.11166217.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.11166217.chunk.css",
     "static/js/2.472d9f7a.chunk.js",
     "static/css/main.7b90cde6.chunk.css",
-    "static/js/main.38145fcf.chunk.js"
+    "static/js/main.e8c7a9d1.chunk.js"
   ]
 }
